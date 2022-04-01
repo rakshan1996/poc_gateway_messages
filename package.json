@@ -1,0 +1,22 @@
+{
+  "name": "messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakshan1996/poc_gateway_messages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakshan1996/poc_gateway_messages/issues"
+  },
+  "homepage": "https://github.com/rakshan1996/poc_gateway_messages#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
