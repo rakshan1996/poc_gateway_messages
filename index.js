@@ -9,6 +9,6 @@ app.get('/messages',(req,res)=>{
     res.send("From Messaging Service hosted at 4001");
 });
 
-app.listen(4001,()=>{
-console.log("Listening on 4001");
+app.listen(443,()=>{
+console.log("Listening on 443");
 });
